@@ -9,5 +9,7 @@ namespace WpfApp1Calculator;
 /// </summary>
 public partial class App : Application
 {
+
+    //constructor
 }
 
