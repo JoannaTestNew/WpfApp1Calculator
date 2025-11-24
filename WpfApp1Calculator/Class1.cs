@@ -8,5 +8,6 @@ namespace WpfApp1Calculator
 {
     internal class Class1
     {
+        //commit
     }
 }
